@@ -1,22 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Main CSS</title>
-    <link rel="stylesheet" href="main.css">
+    <title>stylesheet CSS</title>
+    <link rel="stylesheet" href="style.css">
 
 
-
-
-body {
-	font-family: Arial, Verdana, sans-serif;
+p {
+    color: red;
 }
 
-h1 {
-	color: #ee3e80;
-}
-
-h2 {
-	color: #ee3e80;
+a {
+    color: blue;
 }
 
 
