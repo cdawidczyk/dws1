@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>stylesheet CSS</title>
-    <link rel="stylesheet" href="style.css">
-
-
+body {
+	font-family: Arial, Verdana, sans-serif;}
+h1, h2 {
+	color: #ee3e80;}
 p {
-    color: red;
-}
-
-a {
-    color: blue;
-}
-
-
-
+	color: #665544;}
 
 
 
