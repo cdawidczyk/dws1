@@ -3,11 +3,14 @@
 	<style>
 		body {
 			font-family: arial;
-			background-color: #ee4e80;
+			background-color: #rgb ( 185, 179, 175);
 		}
 	</style>
 </head>
 
+h1 {
+	color: blue;
+}
 
 
 
