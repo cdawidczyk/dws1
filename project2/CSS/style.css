@@ -1,10 +1,11 @@
-
-
-
-p {
-    color: red;
+body {
+	font-family: arial, verdana, serif;
 }
 
-a {
-    color: blue;
+h1 {
+	color: #ee3e80;
+}
+
+h2 {
+	color: #ee3e80;
 }
