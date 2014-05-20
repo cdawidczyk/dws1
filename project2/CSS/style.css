@@ -1,24 +1,15 @@
-body {
-	font-family: Arial, Verdana, sans-serif;}
-h1, h2 {
-	color: #ee3e80;}
+<head>
+	<title>External CSS</title>
+	<link href="css/style.css"
+		rel="stylesheet" />
+
+</head>
+
+
 p {
-	color: #665544;}
+    color: red;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a {
+    color: blue;
+}
